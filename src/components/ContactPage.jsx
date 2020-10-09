@@ -5,9 +5,15 @@ import React from 'react'
 
 const ContactPage = () => {
    return (
-      <div>
-         <h1>Contact Page</h1>
-      </div>
+      <section className="row justify-content-center text-center p-5">
+         <article className="col-md-6">
+            <div className="card p-1 m-1 shadow">
+               <div className="card-body">
+                  <h4 className="card-title mt-1">Contact Page</h4>
+               </div>
+            </div>
+         </article>
+      </section>
    )
 }
 
