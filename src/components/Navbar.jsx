@@ -7,7 +7,7 @@ import {NavLink} from 'react-router-dom';
 const Navbar = () => {
    return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow-lg">
-         <span className="navbar-brand mb-0 h1">Developer Name</span>
+         <span className="navbar-brand mb-0 h1">Brand Name</span>
          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup">
             <span className="navbar-toggler-icon"></span>
          </button>
