@@ -6,7 +6,7 @@ import AbsoluteWrapper from './AbsoluteWrapper';
 
 const ContactPage = () => {
    return (
-      <AbsoluteWrapper>
+      <AbsoluteWrapper className="wrapper">
          <section className="row justify-content-center text-center p-5">
             <article className="col-md-6">
                <div className="card p-1 m-1 shadow">
