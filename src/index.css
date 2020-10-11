@@ -1,6 +1,23 @@
 /*===========================================
             index.css
 ===========================================*/
+*,
+*::after,
+*::before {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+*::-moz-focus-inner {
+  border: 0;
+}
+
+*:focus {
+  outline: none;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -19,6 +36,10 @@ code {
 
 .App {
   text-align: center;
+}
+
+.navbar-toggler:focus {
+  outline: none;
 }
 
 .footer {
