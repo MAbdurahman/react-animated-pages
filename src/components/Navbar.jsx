@@ -21,7 +21,7 @@ const Navbar = () => {
          data-toggle="collapse" 
          data-target="#navbarNavAltMarkup"
          aria-controls="navbarNavAltMarkup"
-         aria-expanded={!isNavCollapsed ? true : false}
+         aria-expanded={!isNavCollapsed}
          aria-label="Toggle navigation"
          onClick={handleNavCollapse}
          >
