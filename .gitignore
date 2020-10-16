@@ -26,3 +26,4 @@ package-lock.json
 /.yarn
 /yarn.lock
 /.idea
+/debug.log
