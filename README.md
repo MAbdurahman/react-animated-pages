@@ -7,4 +7,6 @@ First install node_modules folder
 Then to start app in browser at http://localhost:3000
 ### `npm start`
 
+<<<<<<< HEAD
 ![repo-image](https://github.com/MAbdurahman/react-animated-pages.git/blob/main/src/img/react-animated-pages.gif)
+>>>>>>> 1bfe32ed69751121a3aac4653c0cfe04742320e8
