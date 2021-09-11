@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-animated-pages/static/css/main.f3d90392.chunk.css",
+    "main.js": "/react-animated-pages/static/js/main.28288cbc.chunk.js",
+    "main.js.map": "/react-animated-pages/static/js/main.28288cbc.chunk.js.map",
+    "runtime-main.js": "/react-animated-pages/static/js/runtime-main.8a5eede4.js",
+    "runtime-main.js.map": "/react-animated-pages/static/js/runtime-main.8a5eede4.js.map",
+    "static/css/2.2a86faee.chunk.css": "/react-animated-pages/static/css/2.2a86faee.chunk.css",
+    "static/js/2.5f5926e8.chunk.js": "/react-animated-pages/static/js/2.5f5926e8.chunk.js",
+    "static/js/2.5f5926e8.chunk.js.map": "/react-animated-pages/static/js/2.5f5926e8.chunk.js.map",
+    "index.html": "/react-animated-pages/index.html",
+    "precache-manifest.0fe6b36dd8347ffb579a611f2ef65892.js": "/react-animated-pages/precache-manifest.0fe6b36dd8347ffb579a611f2ef65892.js",
+    "service-worker.js": "/react-animated-pages/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/react-animated-pages/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.f3d90392.chunk.css.map": "/react-animated-pages/static/css/main.f3d90392.chunk.css.map",
+    "static/js/2.5f5926e8.chunk.js.LICENSE.txt": "/react-animated-pages/static/js/2.5f5926e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a5eede4.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.5f5926e8.chunk.js",
+    "static/css/main.f3d90392.chunk.css",
+    "static/js/main.28288cbc.chunk.js"
+  ]
+}
